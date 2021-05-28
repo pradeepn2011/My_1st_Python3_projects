@@ -1,0 +1,9 @@
+This my first simple project: explains different functionality python offers to read files and do analysis on the data
+
+The objective of this project
+
+Read multiple sheets in excel which contains Sensex related yearly data using the "Pandas" package
+Teaches how to extract specific columns from excel,
+Create multiple "dataframes" and "series" for different types of results.
+How to draw different types of graphs for visual representation using "Matplotlib" package
+How to extract date and other functions in the "Date" package
